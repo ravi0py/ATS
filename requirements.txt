@@ -1,0 +1,5 @@
+streamlit
+pyPDF2
+google.generativeAI
+python-dotenv
+fpdf
