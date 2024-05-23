@@ -15,7 +15,7 @@ ATS is a web-based application that helps to improve resumes by analyzing them a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/ATS.git
+git clone https://github.com/ravi0py/ATS.git
 cd ATS
 ```
 
